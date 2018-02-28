@@ -7,9 +7,9 @@
         
   ![main](https://github.com/darkcavalier/plantsvszombie/blob/master/pic/2.PNG)
         
-        选好植物后 开始游戏 放置植物
-        
-  ![main](https://github.com/darkcavalier/plantsvszombie/blob/master/pic/3.PNG)
+        选好植物后 开始游戏 放置植物,扣除相应的阳光
+       
+  ![main](https://github.com/darkcavalier/plantsvszombie/blob/master/pic/3.PNG)
        
        可通过点击菜单选择重新开始游戏 返回主界面
        
