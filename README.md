@@ -7,7 +7,7 @@
         
   ![main](https://github.com/darkcavalier/plantsvszombie/blob/master/pic/2.PNG)
         
-        选好植物后 开始游戏 放置植物,扣除相应的阳光
+        选好植物后 开始游戏 放置植物,扣除相应的阳光,种下向日葵注意拾取阳光
        
   ![main](https://github.com/darkcavalier/plantsvszombie/blob/master/pic/3.PNG)
        
