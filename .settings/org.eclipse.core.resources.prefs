@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/com/example/plantsvszombie/MainActivity.java=UTF-8
+encoding//src/com/example/plantsvszombie/domain/base/AttackPlant.java=UTF-8
+encoding//src/com/example/plantsvszombie/domain/base/BaseElement.java=UTF-8
+encoding//src/com/example/plantsvszombie/domain/base/Bullet.java=UTF-8
+encoding//src/com/example/plantsvszombie/domain/base/DefancePlant.java=UTF-8
+encoding//src/com/example/plantsvszombie/domain/base/Plant.java=UTF-8
+encoding//src/com/example/plantsvszombie/domain/base/ProductPlant.java=UTF-8
+encoding//src/com/example/plantsvszombie/domain/base/Zombie.java=UTF-8
+encoding//src/com/example/plantsvszombie/engine/FightLine.java=UTF-8
+encoding//src/com/example/plantsvszombie/engine/GameEngine.java=UTF-8
+encoding//src/com/example/plantsvszombie/layer/FightLayer.java=UTF-8
+encoding//src/com/example/plantsvszombie/layer/MenuLayer.java=UTF-8
+encoding//src/com/example/plantsvszombie/layer/WelcomeLayer.java=UTF-8
+encoding//src/com/example/plantsvszombie/layer/utils/CommonUtils.java=UTF-8
+encoding//src/com/example/plantsvszombie/utils/CommonUtils.java=UTF-8
